@@ -17,7 +17,7 @@ Designed and evaluated a simulated e-commerce experiment using 3M+ Instacart ord
 Predicted DJIA movement using Reddit headlines and NLP. Analyzed model limitations in the context of the Efficient Market Hypothesis — honest conclusions over inflated accuracy.  
 `Python` `NLP` `Scikit-learn` `Jupyter`
 
-### 🔍 [Credit Card Fraud Detection](https://github.com/suin8606/Data-Analysis-and-ETL-Pipeline-Project)
+### 🔍 [Credit Card Fraud Detection](https://github.com/suin8606/credit-card-fraud-detection)
 Built classification models in R to detect fraudulent transactions, with full ETL pipeline and reproducible reporting.  
 `R` `R Markdown` `Tidyverse` `Caret`
 
