@@ -19,7 +19,8 @@ Predicted DJIA movement using Reddit headlines and NLP. Analyzed model limitatio
 
 ### 🔍 [Credit Card Fraud Detection](https://github.com/suin8606/credit-card-fraud-detection)
 Built classification models in R to detect fraudulent transactions, with full ETL pipeline and reproducible reporting.  
-`R Markdown` `Logistic Regression` `Random Forest` `Feature Engineering` `Class Imbalance Handling` `Bootstrapping` `Cross-Validation` `ROC/AUC` `EDA` `ggplot2` `ranger` `caret`
+`R Markdown` `Logistic Regression` `Random Forest` `Feature Engineering` `Class Imbalance Handling` `Bootstrapping` 
+`Cross-Validation` `ROC/AUC` `EDA` `ggplot2` `ranger` `caret`
 
 ---
 
