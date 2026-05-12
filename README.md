@@ -18,9 +18,13 @@ Predicted DJIA movement using Reddit headlines and NLP. Analyzed model limitatio
 `Python` `NLP` `Scikit-learn` `Jupyter`
 
 ### 🔍 [Credit Card Fraud Detection](https://github.com/suin8606/credit-card-fraud-detection)
-Built classification models in R to detect fraudulent transactions, with full ETL pipeline and reproducible reporting.  
-`R Markdown` `Logistic Regression` `Random Forest` `Feature Engineering` `Class Imbalance Handling` `Bootstrapping` 
-`Cross-Validation` `ROC/AUC` `EDA` `ggplot2` `ranger` `caret`
+Built classification models in R to detect fraudulent transactions — logistic regression vs random forest with full residual diagnostics, cross-validation, and threshold analysis.  
+`R` `R Markdown` `Logistic Regression` `Random Forest` `ROC/AUC` `caret`
+
+### 🛒 [Walmart M5 Sales Forecasting](https://github.com/suin8606/walmart-ts-forecasting)
+Time series forecasting on 1M+ Walmart retail records — ARIMA, SARIMA, and TBATS compared with formal stationarity testing, seasonal decomposition, and RMSE/MAE evaluation.  
+[![Live Report](https://img.shields.io/badge/Live%20Report-View%20Here-brightgreen?style=for-the-badge)](https://suin8606.github.io/walmart-ts-forecasting/walmart_ts.html)  
+`R` `ARIMA` `SARIMA` `TBATS` `forecast` `data.table`
 
 ---
 
@@ -28,7 +32,7 @@ Built classification models in R to detect fraudulent transactions, with full ET
 
 **💻 Languages:** Python · R · SQL · SAS · Oracle · Microsoft Power Apps
 
-**🔬 Analytics:** A/B Testing · Statistical Modeling · NLP · Fraud Detection · OCR
+**🔬 Analytics:** A/B Testing · Statistical Modeling · NLP · Fraud Detection · Time Series · OCR
 
 **📦 Tools:** Pandas · NumPy · SciPy · Statsmodels · Scikit-learn · Tidyverse · Jupyter
 
