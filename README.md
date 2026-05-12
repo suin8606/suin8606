@@ -27,7 +27,8 @@ Built classification models in R to detect fraudulent transactions — logistic 
 ### 🛒 [Walmart M5 Sales Forecasting](https://github.com/suin8606/walmart-ts-forecasting)
 Time series forecasting on 1M+ Walmart retail records — ARIMA, SARIMA, and TBATS compared with formal stationarity testing, seasonal decomposition, and RMSE/MAE evaluation.
 
-[![Live Report](https://img.shields.io/badge/Live%20Report-View%20Here-brightgreen?style=for-the-badge)](https://suin8606.github.io/walmart-ts-forecasting/walmart_ts.html)  
+[![Live Report](https://img.shields.io/badge/Live%20Report-View%20Here-brightgreen?style=for-the-badge)](https://suin8606.github.io/walmart-ts-forecasting/walmart_ts.html)
+
 `R` `ARIMA` `SARIMA` `TBATS` `forecast` `data.table`
 
 ---
