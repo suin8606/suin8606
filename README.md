@@ -19,10 +19,13 @@ Predicted DJIA movement using Reddit headlines and NLP. Analyzed model limitatio
 
 ### 🔍 [Credit Card Fraud Detection](https://github.com/suin8606/credit-card-fraud-detection)
 Built classification models in R to detect fraudulent transactions — logistic regression vs random forest with full residual diagnostics, cross-validation, and threshold analysis.  
+
+[![Live Report](https://img.shields.io/badge/Live%20Report-View%20Here-brightgreen?style=for-the-badge)](https://suin8606.github.io/credit-card-fraud-detection/credit_card_fraud.html)
 `R` `R Markdown` `Logistic Regression` `Random Forest` `ROC/AUC` `caret`
 
 ### 🛒 [Walmart M5 Sales Forecasting](https://github.com/suin8606/walmart-ts-forecasting)
-Time series forecasting on 1M+ Walmart retail records — ARIMA, SARIMA, and TBATS compared with formal stationarity testing, seasonal decomposition, and RMSE/MAE evaluation.  
+Time series forecasting on 1M+ Walmart retail records — ARIMA, SARIMA, and TBATS compared with formal stationarity testing, seasonal decomposition, and RMSE/MAE evaluation.
+
 [![Live Report](https://img.shields.io/badge/Live%20Report-View%20Here-brightgreen?style=for-the-badge)](https://suin8606.github.io/walmart-ts-forecasting/walmart_ts.html)  
 `R` `ARIMA` `SARIMA` `TBATS` `forecast` `data.table`
 
